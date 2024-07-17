@@ -1,6 +1,6 @@
 # CANet
 Official PyTorch implementation of **"Towards Real-World Continuous Super-Resolution: Benchmark and Method"**, in ICME2024
-![image text](https://github.com/doooooithey/CANet/icme_poster_page-0001-2.jpg)
+![image text](/poster.png)
 
 # RealCSR
 Train Set:
